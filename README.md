@@ -6,4 +6,4 @@ Learn more about [Azure Load Testing](https://learn.microsoft.com/azure/load-tes
 
 ## List of samples
 
-- [Read data from a CSV file](./jmeter/read-csv-data/README.md)
+- [Read data from a CSV file](./jmeter/read-csv-data)
